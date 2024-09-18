@@ -1,3 +1,4 @@
 CSS  postion 
 flex direction
-flex wrap
+flex wrap 
+align
